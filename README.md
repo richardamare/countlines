@@ -13,7 +13,7 @@ A fast and efficient command-line tool to count lines of code in your projects. 
 ## Installation
 
 ```bash
-go install github.com/yourusername/countlines@latest
+go install github.com/richardamare/countlines@latest
 ```
 
 ## Usage
